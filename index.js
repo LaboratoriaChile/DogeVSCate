@@ -1,6 +1,6 @@
 const dogeSrc = "http://assets.stickpng.com/thumbs/5845e770fb0b0755fa99d7f4.png";
 const cateSrc = "https://i.dlpng.com/static/png/262880_thumb.png";
-const lazerSrc = "https://sitejerk.com/images/lightning-6.png";
+const lazerSrc = "https://4.bp.blogspot.com/-MiwWe_q5uT4/Wp1Uq4P4glI/AAAAAAADYiM/Y4UkyKfSStYON-XpXH2YFLAw8sF30azlQCLcBGAs/s640/i9QwK8B.gif";
 
 const doge = new Image();
 const catePool = [];
